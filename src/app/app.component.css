@@ -1,0 +1,10 @@
+@media screen and(max-width:760px) {
+  .container {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translateX(-50%);
+    max-width: 400px;
+  }
+}
+
